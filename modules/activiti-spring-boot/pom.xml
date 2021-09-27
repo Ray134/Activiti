@@ -18,7 +18,6 @@
     <modules>
         <module>spring-boot-starters</module>
         <module>spring-boot-samples</module>
-
     </modules>
 
     <properties>
