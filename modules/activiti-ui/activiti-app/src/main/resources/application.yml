@@ -15,6 +15,8 @@ spring:
     enabled: false
   aop:
     proxy-target-class: false
+  main:
+    allow-bean-definition-overriding: true
 server:
   port: 9998
   servlet:
